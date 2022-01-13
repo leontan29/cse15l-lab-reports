@@ -26,3 +26,6 @@ Hello, World!
 
 # Heading 1	linked lists Vs arrays 
 
+[Lab Report 1](lab-report-1-week-2.html)
+
+
