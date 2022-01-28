@@ -17,7 +17,7 @@ ssh <account>@ieng6.ucsd.edu
 
 ## Part 3: Trying Some Commands
 
-There are lots of terminal commands that you can test yourself! Some of these include cd, ls, pwd, mkdir, and cp. An example running the **ls -lat** command is found below
+There are lots of terminal commands that you can test yourself! Some of these include `cd`, `ls`, `pwd`, `mkdir`, and `cp`. An example running the **ls -lat** command is found below
 
 ![Image](vscode_image3.png)
 
@@ -44,8 +44,7 @@ Now you should be able to access the server without typing the password.
 ## Part 6: Optimizing Remote Running
 
 Although we can log in and out with a password, there is a way to login while running only one command. To do this, we can run a single command like this: **Scp src/*.java <username>@<serverdomain>:~/ && ssh <username>@<serverdomain> “javac *.java && java <main>.class *.class”** 
-
- The following is an example: 
+The following is an example: 
 ![Image](vscode_image6.png)
 
 
