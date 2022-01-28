@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab Report 2
 
 Screenshot of the code change diff from Github
@@ -20,3 +21,6 @@ The bug: Our previous program could not read a link that potentially contained a
 
 
 
+=======
+
+>>>>>>> 91da51f2a45e43a1ca90fe98c58ba29cc299f28d
