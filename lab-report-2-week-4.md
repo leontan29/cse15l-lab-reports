@@ -1,6 +1,10 @@
-# Lab Report 2
+# Lab Report 2: Bugs and Symptoms
 
-## This is a screenshot of differences of code 
+## Text after the last link
+In this test file, a bug appears after running the command: java MarkdownParse test-file2.md.
+
+The following symptom took around 30 seconds to appear, resulting in the exception:
+
 ![Image](report2_image1.png)
 ![Image](report2_image2.png)
  
