@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab Report 3: Bugs and Symptoms
 
 **Part 1: After using the `scp -r . cs15lwi22@ieng6.ucsd.edu:~/markdown-parse` command, we get:**
