@@ -47,22 +47,21 @@ The one we reviewed: https://github.com/floatboat/markdown-parse/blob/main/Markd
     }
 
 ## Part 3: Test failures produced by our groups MarkdownParse File 
-> 
-2) testSnip1(MarkdownParseTest)
+> 2) testSnip1(MarkdownParseTest)
 java.lang.AssertionError: expected:<[`google.com, google.com, ucsd.edu]> but was:<[url.com, `google.com, google.com]>
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
 	at org.junit.Assert.assertEquals(Assert.java:120)
 	at org.junit.Assert.assertEquals(Assert.java:146)
 	at MarkdownParseTest.testSnip1(MarkdownParseTest.java:71)
-3) testSnip2(MarkdownParseTest)
+> 3) testSnip2(MarkdownParseTest)
 java.lang.AssertionError: expected:<[a.com(()), example.com]> but was:<[a.com, a.com((, example.com]>
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
 	at org.junit.Assert.assertEquals(Assert.java:120)
 	at org.junit.Assert.assertEquals(Assert.java:146)
 	at MarkdownParseTest.testSnip2(MarkdownParseTest.java:84)
-4) testSnip3(MarkdownParseTest)
+> 4) testSnip3(MarkdownParseTest)
 java.lang.AssertionError: expected:<[https://ucsd-cse15l-w22.github.io/]> but was:<[]>
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
