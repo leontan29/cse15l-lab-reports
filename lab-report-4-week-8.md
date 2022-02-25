@@ -8,7 +8,7 @@ The one we reviewed: https://github.com/floatboat/markdown-parse/blob/main/Markd
 
 ## Part 2: My MarkdownParseTest code: 
 
-> 
+>   
     @Test
     public void testSnip1() throws IOException, NoSuchFileException {
 
@@ -47,7 +47,8 @@ The one we reviewed: https://github.com/floatboat/markdown-parse/blob/main/Markd
     }
 
 ## Part 3: Test failures produced by our groups MarkdownParse File 
-> 2) testSnip1(MarkdownParseTest)
+> 
+2) testSnip1(MarkdownParseTest)
 java.lang.AssertionError: expected:<[`google.com, google.com, ucsd.edu]> but was:<[url.com, `google.com, google.com]>
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
