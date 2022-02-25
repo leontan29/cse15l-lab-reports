@@ -2,9 +2,11 @@
 
 ## Part 1: Link to our markdown parse repository and the one we reviewed 
 
-Our repo: https://github.com/mBookUCSD/markdown-parse/blob/main/MarkdownParse.java
+[Our repo link](https://github.com/mBookUCSD/markdown-parse/blob/main/MarkdownParse.java)
 
-The one we reviewed: https://github.com/floatboat/markdown-parse/blob/main/MarkdownParse.java
+
+[The one we reviewed](https://github.com/floatboat/markdown-parse/blob/main/MarkdownParse.java)
+
 
 ## Part 2: My MarkdownParseTest code: 
 
