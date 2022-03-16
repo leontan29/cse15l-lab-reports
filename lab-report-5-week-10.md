@@ -9,7 +9,13 @@ After this, I ran the `bash script.sh > script.out` command on both the my own, 
 
 To compare the two out files, I used `$ diff script.out script-leon.out`
 
-Noticed two things: 
+Actual outputs of both tests:
+![Image](report5_image1.png)
+
+![Image](report5_image2.png)
+
+Noticed three things: 
+	- Both of Joe's implementations were wrong
 	- there are lots of different output
 	- picked two tests with diff output: 495.md and 511.md
 
