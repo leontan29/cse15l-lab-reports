@@ -15,8 +15,11 @@ Actual outputs of both tests:
 ![Image](report5_image2.png)
 
 Noticed three things: 
+	
 	- Both of Joe's implementations were wrong
+
 	- there are lots of different output
+	
 	- picked two tests with diff output: 495.md and 511.md
 
 ## Part 3: Describe which implementation is correct and wrong 
